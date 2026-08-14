@@ -1,0 +1,13 @@
+/node_modules
+/.next
+/out
+/build
+.DS_Store
+
+# Raw purchased template source — reference only; the app uses copies in /public
+/themeforest-iLqi2vRU-nextmind-ai-agency-technology-html-template
+*.pem
+npm-debug.log*
+.env*.local
+.vercel
+next-env.d.ts
