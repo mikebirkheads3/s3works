@@ -12,7 +12,7 @@ export default function IndexImage() {
                 <div className="section-title">
                   <h3 className="wow fadeInUp">Welcome to S3 WORKS</h3>
                   <h1 className="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">Driving business growth with <span>AI</span> today!</h1>
-                  <p className="wow fadeInUp" data-wow-delay="0.4s">At S3 WORKS, we are dedicated to safely utilize the power of AI to drive business efficiency. Our team is committed to delivering cutting-edge solutions tailored to help you and your business.</p>
+                  <p className="wow fadeInUp" data-wow-delay="0.4s">Hi Mike!</p>
                 </div>
                 {/* Section Title End */}
 

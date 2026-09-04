@@ -19,7 +19,7 @@ export default function Home() {
               <div className="hero-section-content">
                 {/* Hero Content Start */}
                 <div className="hero-content wow fadeInUp">
-                  <p>At S3 WORKS, we are dedicated to safely utilize the power of AI to drive business efficiency. Our team is committed to delivering cutting-edge solutions tailored to help you and your business.</p>
+                  <p>Hi Mike!</p>
                 </div>
                 {/* Hero Content End */}
 
